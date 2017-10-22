@@ -73,7 +73,7 @@ Mappings:
         us-east-2:
             AMI: ami-38cd975d
         us-west-1:
-            AMI: ami-1e299d7e
+            AMI: ami-02eada62
         us-west-2:
             AMI: ami-b73d6cd7
         ca-central-1:
